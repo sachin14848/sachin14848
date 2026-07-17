@@ -218,37 +218,6 @@ public class SachinMishra {
 
 ---
 
-# 🚀 Featured Projects
-
-| 🚀 Project | 📝 Description | ⚙️ Tech Stack |
-|------------|----------------|---------------|
-| **[Booking Management System](https://github.com/sachin14848/booking-management-system)** | Full-stack booking platform with authentication, real-time updates, and Docker support. | Spring Boot • React • MySQL • Docker • Redis • WebSocket |
-| **[Chat Application](https://github.com/sachin14848/chat-application)** | Real-time messaging application with WebSocket support. | Spring Boot • JavaScript • WebSocket |
-| **[E-Commerce Backend](https://github.com/sachin14848/ecommerce-backend)** | RESTful backend with secure JWT authentication. | Spring Boot • JWT • MySQL |
-| **[React Admin Dashboard](https://github.com/sachin14848/react-admin-dashboard)** | Responsive admin dashboard with charts and analytics. | React • Redux • REST APIs |
-
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sachin14848&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin14848&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=sachin14848&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sachin14848&theme=tokyo-night&hide_border=true"/>
-
-</p>
 
 <p align="center">
 
