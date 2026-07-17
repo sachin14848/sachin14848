@@ -1,119 +1,223 @@
 <h1 align="center">Hi 👋, I'm Sachin Mishra</h1>
 
 <h3 align="center">
-Full Stack Developer | Java | Spring Boot | React | Next.js
+💻 Full Stack Developer | Java • Spring Boot • React • Next.js
 </h3>
 
 <p align="center">
-I enjoy building scalable web applications and solving real-world problems using Java and modern web technologies.
+Passionate about building scalable web applications with modern Java technologies and creating exceptional user experiences.
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/sachin-mishra-a8bab930b">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sachim888777@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sachin14848">
+<img src="https://img.shields.io/github/followers/sachin14848?style=for-the-badge"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=sachin14848&style=for-the-badge&color=blue"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 💼 Full Stack Developer
-- 🌱 Currently learning **Spring Security, Docker, AWS & Microservices**
-- 🔭 Working with **Java, Spring Boot, React, Next.js**
-- 💬 Ask me about **Java, React, Spring Boot, REST APIs**
-- 📍 Noida, Uttar Pradesh, India
+```java
+public class SachinMishra {
 
----
+    String role = "Full Stack Developer";
 
-## 🚀 Tech Stack
+    String[] backend = {
+        "Java",
+        "Spring Boot",
+        "Spring MVC",
+        "Hibernate",
+        "REST APIs"
+    };
 
-### Languages
+    String[] frontend = {
+        "React",
+        "Next.js",
+        "JavaScript",
+        "Redux",
+        "Tailwind CSS"
+    };
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+    String[] database = {
+        "MySQL",
+        "MongoDB",
+        "Redis"
+    };
 
----
+    String[] tools = {
+        "Docker",
+        "Git",
+        "GitHub",
+        "VS Code",
+        "IntelliJ IDEA"
+    };
 
-### Frontend
+    String currentFocus = "Spring Security • Docker • AWS • Microservices";
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
-
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
-
----
-
-### Backend
-
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
-
-![Spring MVC](https://img.shields.io/badge/SpringMVC-6DB33F?style=for-the-badge)
-
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge)
-
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
-
----
-
-### Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
-
----
-
-### Tools
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge)
-
-![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge)
-
----
-
-## 📌 Featured Projects
-
-### 🚀 Booking Management System
-
-Spring Boot + React + Docker + Redis + WebSocket
-
-### 💬 Chat Application
-
-Spring Boot + WebSocket + JavaScript
-
-### 🛒 E-Commerce Backend
-
-Spring Boot + MySQL + JWT Authentication
-
-### 📊 React Admin Dashboard
-
-React + Redux + REST APIs
-
----
-
-## 📈 GitHub Stats
-
-![Sachin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sachin14848&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachin14848&layout=compact&theme=github_dark)
-
----
-
-## 📫 Connect With Me
-
-LinkedIn
-
-https://www.linkedin.com/in/sachin-mishra-a8bab930b
-
-Email
-
-sachim888777@gmail.com
-
+}
 ```
+
+---
+
+# 🚀 Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,html,css,mysql"/>
+</p>
+
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap"/>
+</p>
+
+### ⚙ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,hibernate"/>
+</p>
+
+### 🗄 Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis"/>
+</p>
+
+### 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,idea"/>
+</p>
+
+---
+
+# 📌 Featured Projects
+
+## 🚀 Booking Management System
+
+✔ Spring Boot
+
+✔ React
+
+✔ Docker
+
+✔ Redis
+
+✔ WebSocket
+
+---
+
+## 💬 Real-Time Chat Application
+
+✔ Spring Boot
+
+✔ JavaScript
+
+✔ WebSocket
+
+✔ REST APIs
+
+---
+
+## 🛒 E-Commerce Backend
+
+✔ Spring Boot
+
+✔ JWT Authentication
+
+✔ MySQL
+
+✔ REST APIs
+
+---
+
+## 📊 React Admin Dashboard
+
+✔ React
+
+✔ Redux
+
+✔ Charts
+
+✔ Responsive UI
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sachin14848&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin14848&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=sachin14848&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sachin14848&theme=tokyonight&row=1&column=7"/>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- Spring Security
+- JWT Authentication
+- Docker
+- AWS
+- Microservices
+- System Design
+- Kubernetes
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/sachin-mishra-a8bab930b">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:sachim888777@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/sachin14848">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ **Thanks for visiting my profile! Feel free to connect and collaborate.**
+
+</p>
