@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋, I'm Sachin Mishra
 
-<!--
-**sachin14848/sachin14848** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Developer | Java | Spring Boot | React | Next.js
 
-Here are some ideas to get you started:
+I am a Full Stack Developer with experience building scalable web applications using Java, Spring Boot, React, and Next.js.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack
+
+- Java
+- Spring Boot
+- Spring MVC
+- React.js
+- Next.js
+- JavaScript
+- MySQL
+- MongoDB
+- Docker
+- Redis
+- Git
+- REST APIs
+
+### 📌 Current Focus
+
+- Microservices
+- Spring Security
+- Docker
+- AWS
+- System Design
+
+### 📫 Connect with me
+
+LinkedIn:
+https://www.linkedin.com/in/sachin-mishra-a8bab930b
+
+Email:
+sachim888777@gmail.com
