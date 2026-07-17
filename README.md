@@ -24,6 +24,8 @@ Passionate about building scalable web applications with modern Java technologie
 <img src="https://komarev.com/ghpvc/?username=sachin14848&style=for-the-badge&color=blue"/>
 </p>
 
+
+
 ---
 
 # 👨‍💻 About Me
@@ -215,6 +217,15 @@ public class SachinMishra {
 </p>
 
 ---
+
+# 🚀 Featured Projects
+
+| 🚀 Project | 📝 Description | ⚙️ Tech Stack |
+|------------|----------------|---------------|
+| **[Booking Management System](https://github.com/sachin14848/booking-management-system)** | Full-stack booking platform with authentication, real-time updates, and Docker support. | Spring Boot • React • MySQL • Docker • Redis • WebSocket |
+| **[Chat Application](https://github.com/sachin14848/chat-application)** | Real-time messaging application with WebSocket support. | Spring Boot • JavaScript • WebSocket |
+| **[E-Commerce Backend](https://github.com/sachin14848/ecommerce-backend)** | RESTful backend with secure JWT authentication. | Spring Boot • JWT • MySQL |
+| **[React Admin Dashboard](https://github.com/sachin14848/react-admin-dashboard)** | Responsive admin dashboard with charts and analytics. | React • Redux • REST APIs |
 
 <p align="center">
 
